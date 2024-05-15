@@ -9,7 +9,7 @@ This Python project implements a queue management system using custom queue clas
   
 ## Installation
   1. Clone the repository:
-      *git clone https://github.com/RadwaBahaa/Queue-Managment-System/*
+      *git clone https://github.com/RadwaBahaa/Queue-Managment-System.git*
      
   2. Navigate to the project directory:
       *cd Main*
