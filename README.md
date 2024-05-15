@@ -2,10 +2,10 @@
 This Python project implements a queue management system using custom queue classes (ChildQueue) with various operations like adding data, popping data, deleting specific queues, and managing multiple queues. The project is structured around an interactive command-line interface (CLI) for user interaction.
 
 ## Features
-  **-Queue Creation:** Create new queues with specified names and sizes.
-  **-Data Management:** Add data to queues, pop data from queues, and view queue contents.
-  **-Queue Deletion:** Delete specific queues or all existing queues.
-  **-Interactive Interface:** User-friendly CLI for performing queue operations.
+  **- Queue Creation:** Create new queues with specified names and sizes.
+  **- Data Management:** Add data to queues, pop data from queues, and view queue contents.
+  **- Queue Deletion:** Delete specific queues or all existing queues.
+  **- Interactive Interface:** User-friendly CLI for performing queue operations.
   
 ## Installation
   1. Clone the repository:
@@ -23,11 +23,11 @@ This Python project implements a queue management system using custom queue clas
   Follow the interactive prompts to perform queue operations.
 
 ## Operations
-  **-Create a New Queue:** Enter a unique name and size for the queue.
-  **-Display an Existing Queue:** View the contents of a specific queue.
-  **-Delete an Existing Queue:** Remove a queue by name.
-  **-Display All Existing Queues:** List all currently created queues.
-  **-Delete All Existing Queues:** Delete all queues stored in the system.
+  **- Create a New Queue:** Enter a unique name and size for the queue.
+  **- Display an Existing Queue:** View the contents of a specific queue.
+  **- Delete an Existing Queue:** Remove a queue by name.
+  **- Display All Existing Queues:** List all currently created queues.
+  **- Delete All Existing Queues:** Delete all queues stored in the system.
 
 ## Customization
   You can customize the project by modifying the ChildQueue class or extending its functionalities to suit your specific use case.
